@@ -1,0 +1,14 @@
+.body{
+  max-width: 100%;
+  overflow-x: hidden;
+}
+#spinner {
+    display: none;
+    text-align: center;
+    font-size: 30px;
+    font-family: "Noto Serif", serif;
+    font-weight: 500;
+  }
+  #display_info{
+    box-shadow: rgba(119, 58, 58, 0.041) 0px 5px 15px;
+  }
